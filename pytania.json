@@ -1,0 +1,28 @@
+{
+  "pytania": [
+    {
+      "tresc": "Które miasto jest oficjalną stolicą Polski?",
+      "odpA": "Kraków",
+      "odpB": "Warszawa",
+      "odpC": "Gdańsk",
+      "odpD": "Poznań",
+      "poprawna": 2
+    },
+    {
+      "tresc": "Jak nazywa się najwyższy szczyt na Ziemi?",
+      "odpA": "K2",
+      "odpB": "Wysoka Gora",
+      "odpC": "Mount Everest",
+      "odpD": "Mont Blanc",
+      "poprawna": 3
+    },
+    {
+      "tresc": "Która planeta znajduje się najbliżej Słońca?",
+      "odpA": "Merkury",
+      "odpB": "Wenus",
+      "odpC": "Mars",
+      "odpD": "Jowisz",
+      "poprawna": 1
+    }
+  ]
+}
