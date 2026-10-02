@@ -1,0 +1,26 @@
+[
+  {
+    "kurs": "niemiecki",
+    "dzialy": [
+      { "dzial": 1 },
+      { "dzial": 2 },
+      { "dzial": 3 }
+    ]
+  },
+  {
+    "kurs": "angielski",
+    "dzialy": [
+      { "dzial": 1 },
+      { "dzial": 2 },
+      { "dzial": 3 }
+    ]
+  },
+  {
+    "kurs": "hiszpanski",
+    "dzialy": [
+      { "dzial": 1 },
+      { "dzial": 2 },
+      { "dzial": 3 }
+    ]
+  }
+]
