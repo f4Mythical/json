@@ -1,0 +1,80 @@
+{
+  "jezyk": "hiszpanski",
+  "moduly": [
+    {
+      "id": 1, "poziom": 1, "tytul": "Podstawy",
+      "lekcje": [
+        {"id": 1, "tytul": "Powitania", "slowka": [
+          {"pl": "cześć", "obce": "hola"}, {"pl": "dzień dobry", "obce": "buenos días"}, {"pl": "dobry wieczór", "obce": "buenas tardes"}, {"pl": "dobranoc", "obce": "buenas noches"},
+          {"pl": "do widzenia", "obce": "adiós"}, {"pl": "do zobaczenia", "obce": "hasta luego"}, {"pl": "dziękuję", "obce": "gracias"}, {"pl": "proszę", "obce": "por favor"}, {"pl": "przepraszam", "obce": "perdón"}
+        ]},
+        {"id": 2, "tytul": "Przedstawianie się", "slowka": [
+          {"pl": "nazywam się", "obce": "me llamo"}, {"pl": "miło mi", "obce": "mucho gusto"}, {"pl": "skąd jesteś?", "obce": "¿de dónde eres?"}, {"pl": "jestem z Polski", "obce": "soy de Polonia"},
+          {"pl": "ile masz lat?", "obce": "¿cuántos años tienes?"}, {"pl": "mam dwadzieścia lat", "obce": "tengo veinte años"}, {"pl": "mieszkam w Warszawie", "obce": "vivo en Varsovia"}, {"pl": "jak się masz?", "obce": "¿cómo estás?"}
+        ]},
+        {"id": 3, "tytul": "Liczby", "slowka": [
+          {"pl": "jeden", "obce": "uno"}, {"pl": "dwa", "obce": "dos"}, {"pl": "trzy", "obce": "tres"}, {"pl": "cztery", "obce": "cuatro"}, {"pl": "pięć", "obce": "cinco"},
+          {"pl": "sześć", "obce": "seis"}, {"pl": "siedem", "obce": "siete"}, {"pl": "osiem", "obce": "ocho"}, {"pl": "dziewięć", "obce": "nueve"}, {"pl": "dziesięć", "obce": "diez"}
+        ]},
+        {"id": 4, "tytul": "Kolory", "slowka": [
+          {"pl": "czerwony", "obce": "rojo"}, {"pl": "niebieski", "obce": "azul"}, {"pl": "zielony", "obce": "verde"}, {"pl": "żółty", "obce": "amarillo"},
+          {"pl": "czarny", "obce": "negro"}, {"pl": "biały", "obce": "blanco"}, {"pl": "pomarańczowy", "obce": "naranja"}, {"pl": "fioletowy", "obce": "morado"}
+        ]},
+        {"id": 5, "tytul": "Podstawowe czasowniki", "slowka": [
+          {"pl": "być (cecha)", "obce": "ser"}, {"pl": "być (stan)", "obce": "estar"}, {"pl": "mieć", "obce": "tener"}, {"pl": "chcieć", "obce": "querer"},
+          {"pl": "iść", "obce": "ir"}, {"pl": "robić", "obce": "hacer"}, {"pl": "mówić", "obce": "hablar"}, {"pl": "jeść", "obce": "comer"}
+        ]}
+      ]
+    },
+    {
+      "id": 2, "poziom": 2, "tytul": "Życie codzienne",
+      "lekcje": [
+        {"id": 1, "tytul": "Jedzenie", "slowka": [
+          {"pl": "chleb", "obce": "pan"}, {"pl": "woda", "obce": "agua"}, {"pl": "mleko", "obce": "leche"}, {"pl": "mięso", "obce": "carne"},
+          {"pl": "ryba", "obce": "pescado"}, {"pl": "owoce", "obce": "frutas"}, {"pl": "poproszę", "obce": "quisiera"}, {"pl": "rachunek, proszę", "obce": "la cuenta, por favor"}
+        ]},
+        {"id": 2, "tytul": "Zakupy", "slowka": [
+          {"pl": "ile to kosztuje?", "obce": "¿cuánto cuesta?"}, {"pl": "drogi", "obce": "caro"}, {"pl": "tani", "obce": "barato"}, {"pl": "sklep", "obce": "tienda"},
+          {"pl": "pieniądze", "obce": "dinero"}, {"pl": "kartą", "obce": "con tarjeta"}, {"pl": "gotówka", "obce": "efectivo"}, {"pl": "paragon", "obce": "recibo"}
+        ]},
+        {"id": 3, "tytul": "Podróże", "slowka": [
+          {"pl": "dworzec", "obce": "estación"}, {"pl": "lotnisko", "obce": "aeropuerto"}, {"pl": "gdzie jest?", "obce": "¿dónde está?"}, {"pl": "bilet", "obce": "billete"},
+          {"pl": "w lewo", "obce": "a la izquierda"}, {"pl": "w prawo", "obce": "a la derecha"}, {"pl": "prosto", "obce": "todo recto"}, {"pl": "hotel", "obce": "hotel"}
+        ]},
+        {"id": 4, "tytul": "Rodzina", "slowka": [
+          {"pl": "matka", "obce": "madre"}, {"pl": "ojciec", "obce": "padre"}, {"pl": "brat", "obce": "hermano"}, {"pl": "siostra", "obce": "hermana"},
+          {"pl": "babcia", "obce": "abuela"}, {"pl": "dziadek", "obce": "abuelo"}, {"pl": "syn", "obce": "hijo"}, {"pl": "córka", "obce": "hija"}
+        ]},
+        {"id": 5, "tytul": "Czas przeszły", "slowka": [
+          {"pl": "byłem", "obce": "estuve"}, {"pl": "zjadłem", "obce": "comí"}, {"pl": "poszedłem", "obce": "fui"}, {"pl": "zrobiłem", "obce": "hice"},
+          {"pl": "miałem", "obce": "tuve"}, {"pl": "powiedziałem", "obce": "dije"}, {"pl": "widziałem", "obce": "vi"}, {"pl": "rozmawiałem", "obce": "hablé"}
+        ]}
+      ]
+    },
+    {
+      "id": 3, "poziom": 3, "tytul": "Zaawansowany",
+      "lekcje": [
+        {"id": 1, "tytul": "Wyrażanie opinii", "slowka": [
+          {"pl": "myślę, że", "obce": "creo que"}, {"pl": "zgadzam się", "obce": "estoy de acuerdo"}, {"pl": "nie zgadzam się", "obce": "no estoy de acuerdo"}, {"pl": "moim zdaniem", "obce": "en mi opinión"},
+          {"pl": "z jednej strony", "obce": "por un lado"}, {"pl": "z drugiej strony", "obce": "por otro lado"}, {"pl": "na przykład", "obce": "por ejemplo"}, {"pl": "w rzeczywistości", "obce": "en realidad"}
+        ]},
+        {"id": 2, "tytul": "Praca i kariera", "slowka": [
+          {"pl": "praca", "obce": "trabajo"}, {"pl": "szef", "obce": "jefe"}, {"pl": "umowa", "obce": "contrato"}, {"pl": "wynagrodzenie", "obce": "sueldo"},
+          {"pl": "rozmowa kwalifikacyjna", "obce": "entrevista de trabajo"}, {"pl": "współpracownik", "obce": "compañero de trabajo"}, {"pl": "urlop", "obce": "vacaciones"}, {"pl": "awans", "obce": "ascenso"}
+        ]},
+        {"id": 3, "tytul": "Czasy złożone", "slowka": [
+          {"pl": "zjadłem (do tej pory)", "obce": "he comido"}, {"pl": "zjadłeś", "obce": "has comido"}, {"pl": "zjedliśmy", "obce": "hemos comido"}, {"pl": "zjadłem (wcześniej)", "obce": "había comido"},
+          {"pl": "zjem do tego czasu", "obce": "habré comido"}, {"pl": "zjadłbym (wcześniej)", "obce": "habría comido"}, {"pl": "już skończyłem", "obce": "ya he terminado"}, {"pl": "jeszcze nie skończyłem", "obce": "todavía no he terminado"}
+        ]},
+        {"id": 4, "tytul": "Idiomy", "slowka": [
+          {"pl": "bułka z masłem", "obce": "ser pan comido"}, {"pl": "leje jak z cebra", "obce": "llover a cántaros"}, {"pl": "bujać w obłokach", "obce": "estar en las nubes"}, {"pl": "kosztować majątek", "obce": "costar un ojo de la cara"},
+          {"pl": "palnąć gafę", "obce": "meter la pata"}, {"pl": "nie mieć grosza", "obce": "estar sin blanca"}, {"pl": "nabijać się z kogoś", "obce": "tomar el pelo"}, {"pl": "gadać jak najęty", "obce": "hablar por los codos"}
+        ]},
+        {"id": 5, "tytul": "Tryb łączący", "slowka": [
+          {"pl": "chcę, żebyś przyszedł", "obce": "quiero que vengas"}, {"pl": "mam nadzieję, że", "obce": "espero que"}, {"pl": "możliwe, że", "obce": "es posible que"}, {"pl": "wątpię, żeby", "obce": "dudo que"},
+          {"pl": "żebyś wiedział", "obce": "para que sepas"}, {"pl": "kiedy przyjdziesz", "obce": "cuando vengas"}, {"pl": "oby", "obce": "ojalá"}, {"pl": "nie sądzę, żeby to była prawda", "obce": "no creo que sea verdad"}
+        ]}
+      ]
+    }
+  ]
+}
