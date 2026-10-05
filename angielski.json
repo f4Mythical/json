@@ -1,0 +1,80 @@
+{
+  "jezyk": "angielski",
+  "moduly": [
+    {
+      "id": 1, "poziom": 1, "tytul": "Podstawy",
+      "lekcje": [
+        {"id": 1, "tytul": "Powitania", "slowka": [
+          {"pl": "cześć", "obce": "hello"}, {"pl": "dzień dobry", "obce": "good morning"}, {"pl": "dobry wieczór", "obce": "good evening"}, {"pl": "dobranoc", "obce": "good night"},
+          {"pl": "do widzenia", "obce": "goodbye"}, {"pl": "do zobaczenia", "obce": "see you later"}, {"pl": "dziękuję", "obce": "thank you"}, {"pl": "proszę", "obce": "please"}, {"pl": "przepraszam", "obce": "sorry"}
+        ]},
+        {"id": 2, "tytul": "Przedstawianie się", "slowka": [
+          {"pl": "nazywam się", "obce": "my name is"}, {"pl": "miło mi", "obce": "nice to meet you"}, {"pl": "skąd jesteś?", "obce": "where are you from?"}, {"pl": "jestem z Polski", "obce": "I'm from Poland"},
+          {"pl": "ile masz lat?", "obce": "how old are you?"}, {"pl": "mam dwadzieścia lat", "obce": "I'm twenty years old"}, {"pl": "mieszkam w Warszawie", "obce": "I live in Warsaw"}, {"pl": "jak się masz?", "obce": "how are you?"}
+        ]},
+        {"id": 3, "tytul": "Liczby", "slowka": [
+          {"pl": "jeden", "obce": "one"}, {"pl": "dwa", "obce": "two"}, {"pl": "trzy", "obce": "three"}, {"pl": "cztery", "obce": "four"}, {"pl": "pięć", "obce": "five"},
+          {"pl": "sześć", "obce": "six"}, {"pl": "siedem", "obce": "seven"}, {"pl": "osiem", "obce": "eight"}, {"pl": "dziewięć", "obce": "nine"}, {"pl": "dziesięć", "obce": "ten"}
+        ]},
+        {"id": 4, "tytul": "Kolory", "slowka": [
+          {"pl": "czerwony", "obce": "red"}, {"pl": "niebieski", "obce": "blue"}, {"pl": "zielony", "obce": "green"}, {"pl": "żółty", "obce": "yellow"},
+          {"pl": "czarny", "obce": "black"}, {"pl": "biały", "obce": "white"}, {"pl": "pomarańczowy", "obce": "orange"}, {"pl": "fioletowy", "obce": "purple"}
+        ]},
+        {"id": 5, "tytul": "Podstawowe czasowniki", "slowka": [
+          {"pl": "być", "obce": "to be"}, {"pl": "mieć", "obce": "to have"}, {"pl": "chcieć", "obce": "to want"}, {"pl": "iść", "obce": "to go"},
+          {"pl": "robić", "obce": "to do"}, {"pl": "mówić", "obce": "to speak"}, {"pl": "jeść", "obce": "to eat"}, {"pl": "widzieć", "obce": "to see"}
+        ]}
+      ]
+    },
+    {
+      "id": 2, "poziom": 2, "tytul": "Życie codzienne",
+      "lekcje": [
+        {"id": 1, "tytul": "Jedzenie", "slowka": [
+          {"pl": "chleb", "obce": "bread"}, {"pl": "woda", "obce": "water"}, {"pl": "mleko", "obce": "milk"}, {"pl": "mięso", "obce": "meat"},
+          {"pl": "ryba", "obce": "fish"}, {"pl": "owoce", "obce": "fruit"}, {"pl": "poproszę", "obce": "I would like"}, {"pl": "rachunek, proszę", "obce": "the bill, please"}
+        ]},
+        {"id": 2, "tytul": "Zakupy", "slowka": [
+          {"pl": "ile to kosztuje?", "obce": "how much is it?"}, {"pl": "drogi", "obce": "expensive"}, {"pl": "tani", "obce": "cheap"}, {"pl": "sklep", "obce": "shop"},
+          {"pl": "pieniądze", "obce": "money"}, {"pl": "kartą", "obce": "by card"}, {"pl": "gotówka", "obce": "cash"}, {"pl": "paragon", "obce": "receipt"}
+        ]},
+        {"id": 3, "tytul": "Podróże", "slowka": [
+          {"pl": "dworzec", "obce": "station"}, {"pl": "lotnisko", "obce": "airport"}, {"pl": "gdzie jest?", "obce": "where is?"}, {"pl": "bilet", "obce": "ticket"},
+          {"pl": "po lewej", "obce": "on the left"}, {"pl": "po prawej", "obce": "on the right"}, {"pl": "prosto", "obce": "straight ahead"}, {"pl": "hotel", "obce": "hotel"}
+        ]},
+        {"id": 4, "tytul": "Rodzina", "slowka": [
+          {"pl": "matka", "obce": "mother"}, {"pl": "ojciec", "obce": "father"}, {"pl": "brat", "obce": "brother"}, {"pl": "siostra", "obce": "sister"},
+          {"pl": "babcia", "obce": "grandmother"}, {"pl": "dziadek", "obce": "grandfather"}, {"pl": "syn", "obce": "son"}, {"pl": "córka", "obce": "daughter"}
+        ]},
+        {"id": 5, "tytul": "Czas przeszły", "slowka": [
+          {"pl": "byłem", "obce": "I was"}, {"pl": "zjadłem", "obce": "I ate"}, {"pl": "poszedłem", "obce": "I went"}, {"pl": "zrobiłem", "obce": "I did"},
+          {"pl": "miałem", "obce": "I had"}, {"pl": "powiedziałem", "obce": "I said"}, {"pl": "widziałem", "obce": "I saw"}, {"pl": "rozmawiałem", "obce": "I spoke"}
+        ]}
+      ]
+    },
+    {
+      "id": 3, "poziom": 3, "tytul": "Zaawansowany",
+      "lekcje": [
+        {"id": 1, "tytul": "Wyrażanie opinii", "slowka": [
+          {"pl": "myślę, że", "obce": "I think that"}, {"pl": "zgadzam się", "obce": "I agree"}, {"pl": "nie zgadzam się", "obce": "I disagree"}, {"pl": "moim zdaniem", "obce": "in my opinion"},
+          {"pl": "z jednej strony", "obce": "on the one hand"}, {"pl": "z drugiej strony", "obce": "on the other hand"}, {"pl": "na przykład", "obce": "for example"}, {"pl": "w rzeczywistości", "obce": "in fact"}
+        ]},
+        {"id": 2, "tytul": "Praca i kariera", "slowka": [
+          {"pl": "praca", "obce": "job"}, {"pl": "szef", "obce": "boss"}, {"pl": "umowa", "obce": "contract"}, {"pl": "wynagrodzenie", "obce": "salary"},
+          {"pl": "rozmowa kwalifikacyjna", "obce": "job interview"}, {"pl": "współpracownik", "obce": "colleague"}, {"pl": "urlop", "obce": "holiday"}, {"pl": "awans", "obce": "promotion"}
+        ]},
+        {"id": 3, "tytul": "Czasy złożone", "slowka": [
+          {"pl": "zjadłem (do tej pory)", "obce": "I have eaten"}, {"pl": "zjadłeś", "obce": "you have eaten"}, {"pl": "zjedliśmy", "obce": "we have eaten"}, {"pl": "zjadłem (wcześniej)", "obce": "I had eaten"},
+          {"pl": "zjem do tego czasu", "obce": "I will have eaten"}, {"pl": "zjadłbym (wcześniej)", "obce": "I would have eaten"}, {"pl": "już skończyłem", "obce": "I have already finished"}, {"pl": "pracuję tu od roku", "obce": "I have been working here for a year"}
+        ]},
+        {"id": 4, "tytul": "Idiomy", "slowka": [
+          {"pl": "bułka z masłem", "obce": "a piece of cake"}, {"pl": "leje jak z cebra", "obce": "it's raining cats and dogs"}, {"pl": "być w siódmym niebie", "obce": "to be on cloud nine"}, {"pl": "połamania nóg", "obce": "break a leg"},
+          {"pl": "kosztować majątek", "obce": "cost an arm and a leg"}, {"pl": "źle się czuć", "obce": "under the weather"}, {"pl": "wygadać sekret", "obce": "spill the beans"}, {"pl": "raz na ruski rok", "obce": "once in a blue moon"}
+        ]},
+        {"id": 5, "tytul": "Tryby warunkowe", "slowka": [
+          {"pl": "na twoim miejscu", "obce": "if I were you"}, {"pl": "poszedłbym", "obce": "I would have gone"}, {"pl": "chyba że", "obce": "unless"}, {"pl": "jeśli będzie padać, zostanę w domu", "obce": "if it rains, I will stay at home"},
+          {"pl": "gdybym wiedział, przyszedłbym", "obce": "if I had known, I would have come"}, {"pl": "pod warunkiem że", "obce": "provided that"}, {"pl": "szkoda, że nie mogę", "obce": "I wish I could"}, {"pl": "dopóki", "obce": "as long as"}
+        ]}
+      ]
+    }
+  ]
+}
