@@ -1,0 +1,80 @@
+{
+  "jezyk": "niemiecki",
+  "moduly": [
+    {
+      "id": 1, "poziom": 1, "tytul": "Podstawy",
+      "lekcje": [
+        {"id": 1, "tytul": "Powitania", "slowka": [
+          {"pl": "cześć", "obce": "Hallo"}, {"pl": "dzień dobry", "obce": "Guten Morgen"}, {"pl": "dobry wieczór", "obce": "Guten Abend"}, {"pl": "dobranoc", "obce": "Gute Nacht"},
+          {"pl": "do widzenia", "obce": "Auf Wiedersehen"}, {"pl": "do zobaczenia", "obce": "Bis später"}, {"pl": "dziękuję", "obce": "Danke"}, {"pl": "proszę", "obce": "Bitte"}, {"pl": "przepraszam", "obce": "Entschuldigung"}
+        ]},
+        {"id": 2, "tytul": "Przedstawianie się", "slowka": [
+          {"pl": "nazywam się", "obce": "Ich heiße"}, {"pl": "miło mi", "obce": "Freut mich"}, {"pl": "skąd jesteś?", "obce": "Woher kommst du?"}, {"pl": "jestem z Polski", "obce": "Ich komme aus Polen"},
+          {"pl": "ile masz lat?", "obce": "Wie alt bist du?"}, {"pl": "mam dwadzieścia lat", "obce": "Ich bin zwanzig Jahre alt"}, {"pl": "mieszkam w Warszawie", "obce": "Ich wohne in Warschau"}, {"pl": "jak się masz?", "obce": "Wie geht's?"}
+        ]},
+        {"id": 3, "tytul": "Liczby", "slowka": [
+          {"pl": "jeden", "obce": "eins"}, {"pl": "dwa", "obce": "zwei"}, {"pl": "trzy", "obce": "drei"}, {"pl": "cztery", "obce": "vier"}, {"pl": "pięć", "obce": "fünf"},
+          {"pl": "sześć", "obce": "sechs"}, {"pl": "siedem", "obce": "sieben"}, {"pl": "osiem", "obce": "acht"}, {"pl": "dziewięć", "obce": "neun"}, {"pl": "dziesięć", "obce": "zehn"}
+        ]},
+        {"id": 4, "tytul": "Kolory", "slowka": [
+          {"pl": "czerwony", "obce": "rot"}, {"pl": "niebieski", "obce": "blau"}, {"pl": "zielony", "obce": "grün"}, {"pl": "żółty", "obce": "gelb"},
+          {"pl": "czarny", "obce": "schwarz"}, {"pl": "biały", "obce": "weiß"}, {"pl": "pomarańczowy", "obce": "orange"}, {"pl": "fioletowy", "obce": "lila"}
+        ]},
+        {"id": 5, "tytul": "Podstawowe czasowniki", "slowka": [
+          {"pl": "być", "obce": "sein"}, {"pl": "mieć", "obce": "haben"}, {"pl": "chcieć", "obce": "wollen"}, {"pl": "iść", "obce": "gehen"},
+          {"pl": "robić", "obce": "machen"}, {"pl": "mówić", "obce": "sprechen"}, {"pl": "jeść", "obce": "essen"}, {"pl": "widzieć", "obce": "sehen"}
+        ]}
+      ]
+    },
+    {
+      "id": 2, "poziom": 2, "tytul": "Życie codzienne",
+      "lekcje": [
+        {"id": 1, "tytul": "Jedzenie", "slowka": [
+          {"pl": "chleb", "obce": "das Brot"}, {"pl": "woda", "obce": "das Wasser"}, {"pl": "mleko", "obce": "die Milch"}, {"pl": "mięso", "obce": "das Fleisch"},
+          {"pl": "ryba", "obce": "der Fisch"}, {"pl": "owoce", "obce": "das Obst"}, {"pl": "poproszę", "obce": "Ich möchte"}, {"pl": "rachunek, proszę", "obce": "Die Rechnung, bitte"}
+        ]},
+        {"id": 2, "tytul": "Zakupy", "slowka": [
+          {"pl": "ile to kosztuje?", "obce": "Wie viel kostet das?"}, {"pl": "drogi", "obce": "teuer"}, {"pl": "tani", "obce": "billig"}, {"pl": "sklep", "obce": "das Geschäft"},
+          {"pl": "pieniądze", "obce": "das Geld"}, {"pl": "kartą", "obce": "mit Karte"}, {"pl": "gotówka", "obce": "das Bargeld"}, {"pl": "paragon", "obce": "die Quittung"}
+        ]},
+        {"id": 3, "tytul": "Podróże", "slowka": [
+          {"pl": "dworzec", "obce": "der Bahnhof"}, {"pl": "lotnisko", "obce": "der Flughafen"}, {"pl": "gdzie jest?", "obce": "Wo ist?"}, {"pl": "bilet", "obce": "die Fahrkarte"},
+          {"pl": "w lewo", "obce": "links"}, {"pl": "w prawo", "obce": "rechts"}, {"pl": "prosto", "obce": "geradeaus"}, {"pl": "hotel", "obce": "das Hotel"}
+        ]},
+        {"id": 4, "tytul": "Rodzina", "slowka": [
+          {"pl": "matka", "obce": "die Mutter"}, {"pl": "ojciec", "obce": "der Vater"}, {"pl": "brat", "obce": "der Bruder"}, {"pl": "siostra", "obce": "die Schwester"},
+          {"pl": "babcia", "obce": "die Großmutter"}, {"pl": "dziadek", "obce": "der Großvater"}, {"pl": "syn", "obce": "der Sohn"}, {"pl": "córka", "obce": "die Tochter"}
+        ]},
+        {"id": 5, "tytul": "Czas przeszły", "slowka": [
+          {"pl": "byłem", "obce": "Ich war"}, {"pl": "zjadłem", "obce": "Ich habe gegessen"}, {"pl": "poszedłem", "obce": "Ich bin gegangen"}, {"pl": "zrobiłem", "obce": "Ich habe gemacht"},
+          {"pl": "miałem", "obce": "Ich hatte"}, {"pl": "powiedziałem", "obce": "Ich habe gesagt"}, {"pl": "widziałem", "obce": "Ich habe gesehen"}, {"pl": "rozmawiałem", "obce": "Ich habe gesprochen"}
+        ]}
+      ]
+    },
+    {
+      "id": 3, "poziom": 3, "tytul": "Zaawansowany",
+      "lekcje": [
+        {"id": 1, "tytul": "Wyrażanie opinii", "slowka": [
+          {"pl": "myślę, że", "obce": "Ich denke, dass"}, {"pl": "zgadzam się", "obce": "Ich stimme zu"}, {"pl": "nie zgadzam się", "obce": "Ich stimme nicht zu"}, {"pl": "moim zdaniem", "obce": "Meiner Meinung nach"},
+          {"pl": "z jednej strony", "obce": "Einerseits"}, {"pl": "z drugiej strony", "obce": "Andererseits"}, {"pl": "na przykład", "obce": "zum Beispiel"}, {"pl": "właściwie", "obce": "eigentlich"}
+        ]},
+        {"id": 2, "tytul": "Praca i kariera", "slowka": [
+          {"pl": "praca", "obce": "die Arbeit"}, {"pl": "szef", "obce": "der Chef"}, {"pl": "umowa", "obce": "der Vertrag"}, {"pl": "wynagrodzenie", "obce": "das Gehalt"},
+          {"pl": "rozmowa kwalifikacyjna", "obce": "das Vorstellungsgespräch"}, {"pl": "współpracownik", "obce": "der Kollege"}, {"pl": "urlop", "obce": "der Urlaub"}, {"pl": "awans", "obce": "die Beförderung"}
+        ]},
+        {"id": 3, "tytul": "Czasy złożone", "slowka": [
+          {"pl": "zjadłem (do tej pory)", "obce": "Ich habe gegessen"}, {"pl": "zjedliśmy", "obce": "Wir haben gegessen"}, {"pl": "ona pracowała", "obce": "Sie hat gearbeitet"}, {"pl": "zjadłem (wcześniej)", "obce": "Ich hatte gegessen"},
+          {"pl": "zjem do tego czasu", "obce": "Ich werde gegessen haben"}, {"pl": "zjadłbym (wcześniej)", "obce": "Ich hätte gegessen"}, {"pl": "jestem już gotowy", "obce": "Ich bin schon fertig"}, {"pl": "byłem w Berlinie", "obce": "Ich bin in Berlin gewesen"}
+        ]},
+        {"id": 4, "tytul": "Idiomy", "slowka": [
+          {"pl": "bułka z masłem", "obce": "ein Kinderspiel"}, {"pl": "leje jak z cebra", "obce": "es regnet in Strömen"}, {"pl": "nie widzieć oczywistości", "obce": "Tomaten auf den Augen haben"}, {"pl": "trzymać kciuki", "obce": "Daumen drücken"},
+          {"pl": "jest mi obojętne", "obce": "Das ist mir Wurst"}, {"pl": "nic nie rozumiem", "obce": "Ich verstehe nur Bahnhof"}, {"pl": "działać na nerwy", "obce": "jemandem auf die Nerven gehen"}, {"pl": "połamania nóg", "obce": "Hals- und Beinbruch"}
+        ]},
+        {"id": 5, "tytul": "Konjunktiv II", "slowka": [
+          {"pl": "na twoim miejscu", "obce": "Wenn ich du wäre"}, {"pl": "chciałbym", "obce": "Ich hätte gern"}, {"pl": "byłoby miło", "obce": "Es wäre schön"}, {"pl": "poszedłbym", "obce": "Ich würde gehen"},
+          {"pl": "gdybym miał czas", "obce": "Wenn ich Zeit hätte"}, {"pl": "mógłbyś pomóc?", "obce": "Könntest du helfen?"}, {"pl": "chciałbym móc", "obce": "Ich wünschte, ich könnte"}, {"pl": "byłoby lepiej, gdyby", "obce": "Es wäre besser, wenn"}
+        ]}
+      ]
+    }
+  ]
+}
